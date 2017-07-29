@@ -1,0 +1,45 @@
+
+body {
+font-family: Helvetica;
+
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;color: white;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#finnish h2 {
+  background-color: skyblue;
+}
+
+.container {
+  max-width: ;
+}
+
+.header {
+  background-image: url("/Users/salcrom/projects/Dasmoto's_Arts_&_Crafts/resources/pattern.jpeg");
+  background-size: auto;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  margin-bottom: 5%;
+}
+
+.header h1 {
+  font-size:100%;
+}
